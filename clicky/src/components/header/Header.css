@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: darkblue;
+  margin-bottom: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  float: right;
+}

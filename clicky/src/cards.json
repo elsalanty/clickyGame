@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Scenic Road",
+    "image": "/components/images/img1.jpeg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Mirror Image of Mountain on a Still Lake",
+    "image": "https://www.pexels.com/photo/blue-sky-clear-sky-cold-fog-346529/",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Scenic Track",
+    "image": "https://www.pexels.com/photo/road-nature-trees-branches-38537/",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Balanced Rocks",
+    "image": "https://www.pexels.com/photo/black-pile-of-stones-158607/",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Peir",
+    "image": "https://www.pexels.com/photo/beach-beautiful-bridge-carribean-449627/",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Sunset in a tree",
+    "image": "https://www.pexels.com/photo/flight-landscape-nature-sky-36717/",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Railroad in Forest",
+    "image": "https://www.pexels.com/photo/abandoned-forest-industry-nature-34950/",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Fields Mountains and Water",
+    "image": "https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Butterflies",
+    "image": "https://www.pexels.com/photo/close-up-of-leaf-326055/",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Leaves",
+    "image": "https://www.pexels.com/photo/close-up-photography-of-leaves-with-droplets-807598/",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Palm Beach",
+    "image": "https://www.pexels.com/photo/scenic-view-of-beach-248797/",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Mountain and Lake",
+    "image": "https://www.pexels.com/photo/daylight-environment-forest-idyllic-459225/",
+    "count": 0
+  }
+]
